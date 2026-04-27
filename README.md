@@ -3,6 +3,7 @@
 *
 ** Ing Yadira Franco
 *
+
 **EJERCICIO 1
 Este ejercicio consiste en crear un programa en Java que evalúe si una persona califica para un subsidio, aplicando POO mediante atributos privados,
 constructores, getters y setters con validaciones, métodos para aprobar o rechazar la solicitud y sobrecarga para calcular el consumo mensual de combustible, 
